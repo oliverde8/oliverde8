@@ -1,7 +1,8 @@
 ### Allons-y 👋
 
 - I am Oliver de Cramer, a backend PHP developper
-- I am an expert on Magento and Symfony 
+- I am an expert on Magento and Symfony
+- I do somenmobile devolpment on my free time usig Flutter 
 - I work for Wide Agency in Switzerland 
 
 #### I work on 
